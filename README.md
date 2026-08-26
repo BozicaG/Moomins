@@ -22,7 +22,7 @@ The website includes:
 
 ## ✨ Demo
 
-**[Live Demo](https://bozicag.github.io/moomins/)**
+**[Live Demo](https://bozicag.github.io/Moomins/)**
 
 ---
 
